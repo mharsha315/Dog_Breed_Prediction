@@ -14,7 +14,7 @@ This project uses a pre-trained model for dog breed classification. The applicat
 1. Clone this repository:
    ```bash
    git clone https://github.com/mharsha315/Dog_Breed_Prediction.git
-   cd dog-breed-classifier
+   cd Dog_Breed_Prediction
 2. Install dependencies from requirements.txt:
 pip install -r requirements.txt
 
